@@ -1,2 +1,2 @@
 # hello-world
-bored
+Just a loser tryng to complete the tutorial.
