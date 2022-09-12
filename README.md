@@ -1,2 +1,2 @@
 # hello-world
-Just a loser tryng to complete the tutorial.
+Just a loser trying to complete the tutorial.
